@@ -28,3 +28,7 @@ Pandas
 NLTK
 CSV for dataset storage
 Streamlit
+
+To run :
+
+In VS Code terminal , run as "streamlit run chatbot.py"
